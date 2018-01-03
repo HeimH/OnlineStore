@@ -1,0 +1,45 @@
+.SonlineBox {
+	Z-INDEX: 9999; POSITION: fixed; WIDTH: 104px; DISPLAY: none; HEIGHT: 253px; FONT-SIZE: 12px; TOP: 170px; LEFT: 0px
+}
+.SonlineBox .openTrigger {
+	Z-INDEX: 1; POSITION: absolute; WIDTH: 30px; BACKGROUND: url(/ygy/images/grayopen.jpg) #0176ba no-repeat 0px 0px; HEIGHT: 110px; TOP: 0px; CURSOR: pointer
+}
+.SonlineBox .titleBox {
+	Z-INDEX: 1; BORDER-BOTTOM: #7b7b7b 2px solid; POSITION: relative; LINE-HEIGHT: 35px; WIDTH: 100%; BACKGROUND: url(/ygy/images/graytitlebg.gif) #038bdc repeat-x 0px 0px; HEIGHT: 35px
+}
+.SonlineBox .titleBox SPAN {
+	FONT-FAMILY: 'Î¢ÈíÑÅºÚ' , 'ºÚÌå'; COLOR: #fff; MARGIN-LEFT: 10px; FONT-SIZE: 14px
+}
+.SonlineBox .contentBox {
+	Z-INDEX: 2; BORDER-BOTTOM: #7b7b7b 2px solid; POSITION: absolute; BORDER-LEFT: #7b7b7b 2px solid; WIDTH: 100%; DISPLAY: block; BACKGROUND: #fff 0px 0px; HEIGHT: auto; OVERFLOW: hidden; BORDER-TOP: #7b7b7b 2px solid; BORDER-RIGHT: #7b7b7b 2px solid
+}
+.SonlineBox .contentBox .closeTrigger {
+	Z-INDEX: 2; POSITION: absolute; WIDTH: 25px; DISPLAY: block; HEIGHT: 25px; TOP: 5px; CURSOR: pointer; RIGHT: 5px
+}
+.SonlineBox .contentBox .listBox {
+	POSITION: relative; MARGIN: 6px 0px; OVERFLOW: hidden
+}
+.SonlineBox .contentBox .listBox .QQList {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 5px auto; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-TOP: 0px
+}
+.SonlineBox .contentBox .listBox .QQList:hover {
+	BACKGROUND-COLOR: #dcdcdc
+}
+.SonlineBox .contentBox .listBox .QQList SPAN {
+	TEXT-ALIGN: right; LINE-HEIGHT: 26px; WIDTH: 47%; DISPLAY: block; FLOAT: left; HEIGHT: 25px; COLOR: #444; OVERFLOW: hidden
+}
+.SonlineBox .contentBox .listBox .QQList DIV.ico {
+	WIDTH: 52%; FLOAT: left; HEIGHT: 25px; OVERFLOW: hidden
+}
+.SonlineBox .contentBox .listBox .QQList DIV.ico A {
+	
+}
+.SonlineBox .contentBox .tels {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 10px; LINE-HEIGHT: 200%; MARGIN: 0px auto; WIDTH: 90%; HEIGHT: auto; BORDER-TOP: #ccc 1px dotted
+}
+.SonlineBox .contentBox .tels FONT {
+	LINE-HEIGHT: 35px; DISPLAY: block; FONT-FAMILY: 'Î¢ÈíÑÅºÚ' , 'ºÚÌå'; COLOR: #555; FONT-SIZE: 16px
+}
+.SonlineBox .contentBox .tels SPAN {
+	LINE-HEIGHT: 25px; DISPLAY: block; FONT-FAMILY: "Palatino Linotype" , "Book Antiqua"; COLOR: #555; FONT-SIZE: 20px; FONT-WEIGHT: bold
+}
