@@ -133,7 +133,7 @@ String path = request.getContextPath();
       <TABLE cellSpacing=0 cellPadding=0 width=300 border=0>
         <TR>
           <TD vAlign=bottom align=middle height=18>
-             <SPAN class=STYLE5 style="font-size: 20px;">基于BS模式的学员综合管理系统</SPAN>
+             <SPAN class=STYLE5 style="font-size: 20px;">学员综合管理系统</SPAN>
           </TD>
         </TR>
       </TABLE>

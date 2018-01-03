@@ -52,7 +52,7 @@
 		<table border="0" width="100%">
 		    <tr>
 		         <td width="70%">
-		             <DIV style="font-size: 28px;margin-top: 70px;margin-left: 100px;margin-bottom: 10px;">基于BS模式的学员综合管理系统 </DIV>
+		             <DIV style="font-size: 28px;margin-top: 70px;margin-left: 100px;margin-bottom: 10px;">学员综合管理系统 </DIV>
 		         </td>
 		         <td width="30%">
 		             <div style="float: right;margin-top: 70px;margin-right: 20px;">

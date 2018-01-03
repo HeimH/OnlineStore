@@ -27,7 +27,7 @@ String path = request.getContextPath();
   <body bgColor='#9ad075' style="margin: 0;padding: 0">
 	<table width="100%" border="0" cellpadding="0" cellspacing="0">
 	  <tr>
-	    <td width='50%' height="150" style="font-size:26px; font-weight: bold;"><p style="margin-left: 30px;">基于BS模式的学员综合管理系统</p></td>
+	    <td width='50%' height="150" style="font-size:26px; font-weight: bold;"><p style="margin-left: 30px;">学员综合管理系统</p></td>
 	    <td width='50%' align="right">
 	    	<table width="550" border="0" cellspacing="0" cellpadding="0">
 		      <tr>
